@@ -3,12 +3,12 @@ version: 1
 service:
   name: test_conflict_a
   lifecycle:
-  tier:
+  tier: tier_1
   product:
   owner:
   language:
   framework:
-  description:
+  description: test description
   aliases:
   tags:
   repositories:
